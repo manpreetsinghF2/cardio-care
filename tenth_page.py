@@ -26,7 +26,7 @@ class FirstWin10():
         self.frame2.place(x = 0, y = 0)
         self.frame3 = Frame(self.root, width = 800, height= 350, bg = '#121236')
         self.frame3.place(x = 0, y = 350)
-        self.frame5 = Frame(self.frame1, width = 600, height = 500, bg = 'pink')
+        self.frame5 = Frame(self.frame1, width = 600, height = 500, bg = 'white')
         self.frame5.place(x = 0, y = 470)
 
         #labels
